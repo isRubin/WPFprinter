@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="OshriPrinterWPF.PrinterUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:OshriPrinterWPF"
+             mc:Ignorable="d" 
+             d:DesignHeight="250" d:DesignWidth="250"  BorderThickness="1" BorderBrush="Black">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Image Source="images/printer.jpg"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Label 
+               Grid.Row="1" 
+               Name="printerNameLabel" 
+               Content="printer Name" 
+               HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="RoyalBlue" FontSize="16" MouseEnter="FontIncrease" MouseLeave="FontDecrease" 
+        />
+        </Grid>
+        <Grid Grid.Row="2">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"/>
+                <RowDefinition Height="auto"/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0" Name="inkLabel" Content="Ink:" Background="Yellow"/>
+            <Label Grid.Row="1" Grid.Column="0" Name="pagesLabel" Content="Pages:" Background="red" />
+            
+            <ProgressBar Grid.Row="0"    Grid.Column="1" Name="inkCountProgressBar" Value="23"/>
+            <Slider      Grid.Column="1" Grid.Row="1"    Name="pageCountSlider"     Value="200" Maximum="400"/>
+
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,33 @@
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\PrinterUserControl.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\PrinterUserControl.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מרצים\דן זילברשטיין\מבוא למדעי המחשב\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.exe.config
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\bin\Debug\OshriPrinterWPF.pdb
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.csprojResolveAssemblyReference.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\MainWindow.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\PrinterUserControl.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\App.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF_MarkupCompile.cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF_MarkupCompile.lref
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\MainWindow.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\PrinterUserControl.baml
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.g.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.Properties.Resources.resources
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.csproj.GenerateResource.Cache
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.exe
+M:\מבחר\קורסי גברים\מדעי המחשב\מחזור עח\ישראל רובין\OshriPrinterWPF\OshriPrinterWPF\obj\Debug\OshriPrinterWPF.pdb
